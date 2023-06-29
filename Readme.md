@@ -8,5 +8,5 @@
 * Training the model
 * Saving the model
 * deploying the model
-* Preciction
+* Prediction
 * Deleting all the resources
